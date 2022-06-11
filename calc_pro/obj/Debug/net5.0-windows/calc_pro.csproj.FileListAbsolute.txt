@@ -1,0 +1,54 @@
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.exe
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.deps.json
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.json
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.dev.json
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.dll
+E:\VS22 Projects\calc_pro_ns\calc_pro\bin\Debug\net5.0-windows\calc_pro.pdb
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.AssemblyReference.cache
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.Form1.resources
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.GenerateResource.cache
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfoInputs.cache
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfo.cs
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.CoreCompileInputs.cache
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.dll
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\refint\calc_pro.dll
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.pdb
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\calc_pro.genruntimeconfig.cache
+E:\VS22 Projects\calc_pro_ns\calc_pro\obj\Debug\net5.0-windows\ref\calc_pro.dll
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.exe
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.deps.json
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.json
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.dev.json
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.dll
+D:\Work\SimpleCalc\calc_pro\bin\Debug\net5.0-windows\calc_pro.pdb
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.AssemblyReference.cache
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.Form1.resources
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.GenerateResource.cache
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfoInputs.cache
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfo.cs
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.CoreCompileInputs.cache
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.dll
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\refint\calc_pro.dll
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.pdb
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\calc_pro.genruntimeconfig.cache
+D:\Work\SimpleCalc\calc_pro\obj\Debug\net5.0-windows\ref\calc_pro.dll
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.exe
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.deps.json
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.json
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.runtimeconfig.dev.json
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.dll
+E:\VS22 Projects\CalculcatorBackup\calc_pro\bin\Debug\net5.0-windows\calc_pro.pdb
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.AssemblyReference.cache
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.Form1.resources
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.GenerateResource.cache
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfoInputs.cache
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.AssemblyInfo.cs
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.csproj.CoreCompileInputs.cache
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.dll
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\refint\calc_pro.dll
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.pdb
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\calc_pro.genruntimeconfig.cache
+E:\VS22 Projects\CalculcatorBackup\calc_pro\obj\Debug\net5.0-windows\ref\calc_pro.dll
